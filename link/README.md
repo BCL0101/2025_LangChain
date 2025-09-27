@@ -28,3 +28,10 @@ https://www.youtube.com/watch?v=L1AJ_bfJwHc
 
 ## 2025_09_20_下午
 https://www.youtube.com/watch?v=b6-aEzhmZH0
+
+---
+## 2025_09_27_上午
+https://www.youtube.com/watch?v=kYGONMGMZMU
+
+## 2025_09_27_下午
+https://www.youtube.com/watch?v=5DpB4ZOBWhM
