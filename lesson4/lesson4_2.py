@@ -23,10 +23,10 @@ def answer(prompt: str) -> str:
 iface = gr.Interface(
     fn=answer,
     inputs=gr.Textbox(lines=3, placeholder="在此輸入問題，按送出..."),
-    outputs="text",
+    outputs=gr.Textbox(lines=10),  # 將輸出設定成 10 行高，變大輸出區域
     title="Ollama 簡易 Gradio 範例",
     description="示範如何把原先的 Ollama 呼叫整合到 Gradio。可用 OLLAMA_URL/OLLAMA_MODEL 環境變數覆蓋預設。",
 )
 
 if __name__ == "__main__":
-    iface.launch(server_name="127.0.0.1", server_port=7860) 
+    iface.launch(server_name="127.0.0.1", server_port=7860,share=True) 
