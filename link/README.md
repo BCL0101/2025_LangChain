@@ -43,3 +43,11 @@ https://www.youtube.com/watch?v=7BkeotanXSo
 
 ## 2025_10_18_下午
 https://www.youtube.com/watch?v=OM1vxo9nFdc
+
+---
+
+## 2025_10_25_上午
+https://www.youtube.com/watch?v=QRMAxGYyd08
+
+## 2025_10_25_下午
+https://www.youtube.com/watch?v=2-HymAUD-F8
